@@ -4,6 +4,14 @@ and updates [Linode](https://www.linode.com/) NodeBalancer's SSL certificate.
 
 Just schedule to run it weekly or any other period of time you desire.
 
+## Setting up
+
+Make sure you have Java version 8 or higher
+```
+java -version
+```
+Download `le4linode.jar` from [the latest release](le4linode.jar).
+
 ## Running the tool
 
 The tool requeres 5 parameter, all of them are requered and must be in the defined order:
