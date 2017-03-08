@@ -10,7 +10,7 @@ Make sure you have Java version 8 or higher
 ```
 java -version
 ```
-Download `le4linode.jar` from [the latest release](le4linode.jar).
+Download `le4linode.jar` from [the latest release](https://github.com/CloudCluster/letsencrypt4linode/releases).
 
 ## Running the tool
 
