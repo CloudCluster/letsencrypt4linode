@@ -16,7 +16,7 @@ Download `le4linode.jar` from [the latest release](https://github.com/CloudClust
 
 The tool requeres 5 parameter, all of them are requered and must be in the defined order:
 ```
-java -jar le4linode.jar pathToAccountPrivateKeyFile pathToDomainPrivateKeyFile domainNamesCommaSeparated nodeBalancerLabel linodeAPIToken
+java -jar le4linode.jar /path/to/account/PrivateKeyFile /path/to/domain/PrivateKeyFile domainNames,CommaSeparated nodeBalancerLabel linodeAPIToken
 ```
 
 The domains must already be verified with the account the private key you are providing. I'm using 
